@@ -1,0 +1,10 @@
+Juan Perez, 15, 18, 12
+Maria Gonzalez, 19, 17, 16
+Pedro Martinez, 14, 15, 17
+Ana Lopez, 15, 18, 19
+Luis Rodriguez, 19, 17, 20
+Sofia Fernandez, 15, 19, 18
+Carlos Sanchez, 16, 19, 14
+Laura Ramirez, 18, 17, 15
+Diego Torres, 15, 19, 16
+Elena Gomez, 19, 15, 18

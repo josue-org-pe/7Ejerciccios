@@ -1,0 +1,10 @@
+Leche, 3.50
+Pan, 2.25
+Shampoo, 6.75
+Jabón, 1.99
+Arroz, 4.50
+Pasta dental, 2.99
+Cereal, 5.25
+Toallas de papel, 3.80
+Huevos, 2.50
+Galletas, 3.99

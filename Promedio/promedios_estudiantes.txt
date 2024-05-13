@@ -1,0 +1,10 @@
+Juan Perez, 15
+Maria Gonzalez, 17.3333
+Pedro Martinez, 15.3333
+Ana Lopez, 17.3333
+Luis Rodriguez, 18.6667
+Sofia Fernandez, 17.3333
+Carlos Sanchez, 16.3333
+Laura Ramirez, 16.6667
+Diego Torres, 16.6667
+Elena Gomez, 17.3333
